@@ -9,6 +9,7 @@
 ## 👋Experience
 - 🏫 Sunrin Internet High School (2015.03 ~ 2018.02)
 - 🎓 Hongik University, Engineering Electronic & Electrical Engineering (Computer Engineering) (2018.03 ~ )
+- 신촌 연합 IT 창업동아리 CEOS FrontEnd 17기 (2023.03~)
 
 <br>
 
