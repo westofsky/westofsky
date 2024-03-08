@@ -8,9 +8,11 @@
 
 ## 👋Experience
 - 🏫 Sunrin Internet High School (2015.03 ~ 2018.02)
-- 🎓 Hongik University, Engineering Electronic & Electrical Engineering (Computer Engineering) (2018.03 ~ )
-- 신촌 연합 IT 창업동아리 CEOS FrontEnd 17기 (2023.03~)
+- 🎓 Hongik University, Engineering Electronic & Electrical Engineering (Computer Engineering) (2018.03 ~ 2024.02)
+- 신촌 연합 IT 창업동아리 CEOS FrontEnd 17기 (2023.03 ~ 2023.08)
 - 현대자동차그룹 소프티어 부트캠프 2기 (2023.07 ~ 2023.08)
+- 신촌 연합 IT 창업동아리 CEOS FrontEnd 18기 운영진 (2023.09 ~ 2024.02)
+- 신촌 연합 IT 창업동아리 CEOS FrontEnd 19기 파트장 (2024.03 ~ )
 <br>
 
 ## 🎉Awards & Activities
