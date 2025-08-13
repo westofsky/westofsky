@@ -18,5 +18,3 @@
 - [2024 공개SW개발자대회 동상(티지 대표상)](https://www.oss.kr/dev_competition_activities/show/1bbfab8a-f1f3-4708-a83f-c82489e8f767?page=2)
 - [2021 공개SW개발자대회 동상(알티베이스 대표상)](https://www.oss.kr/dev_competition_activities/show/29368b31-ff43-4540-8317-45d7eb927b06?page=4)
 - [2017 전국고등학교동아리SW대회 동상](https://drive.google.com/file/d/13U0HJlMPUwpHpYPNIBO0SxHdPFIhn4JP/view?usp=share_link)
-- [세차장 앱 & 어드민 페이지 외주](https://app.sparkpluswash.com/)
-- [국방부 오픈소스 아카데미 해커톤 참여 - 상표 자동 검열 모자이크 서비스 Blur Pencil](https://github.com/osamhack2020/Cloud_BlurPencil_GonNyong4) 
